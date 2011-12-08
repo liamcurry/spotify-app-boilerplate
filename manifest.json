@@ -1,0 +1,16 @@
+{
+  "BundleType": "Application",
+  "AppIcon": {
+    "36x18": "tutorial.png"
+  },
+  "AppName": {
+    "en": "Boilerplate"
+  },
+  "AppURL": "http://www.spotify.com",
+  "SupportedLanguages": [
+    "en"
+  ],
+  "RequiredPermissions": [
+    "https://www.googleapis.com"
+  ]
+}
